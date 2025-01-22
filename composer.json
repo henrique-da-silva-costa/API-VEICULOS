@@ -1,0 +1,17 @@
+{
+    "name": "app/veiculos",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Henrique",
+            "email": "henriquedasilvacosta@live.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.6"
+    }
+}
