@@ -17,23 +17,23 @@ Nesse arquivo tem essa função com a configurção
 
 ## Rotas
 
-* Carro
-Cadastrar -> "/carro/cadastrar"
-Listar -> "/carro"
-Listar/unico -> "/carro/unico" parametro id
-Editar -> "/carro/editar"
-Excluir -> "/carro/excluir"
+### Carro
+* Cadastrar -> "/carro/cadastrar"
+* Listar -> "/carro"
+* Listar/unico -> "/carro/unico" parametro id
+* Editar -> "/carro/editar"
+* Excluir -> "/carro/excluir"
   
-* Moto
-Cadastrar -> "/carro/cadastrar"
-Listar -> "/carro"
-Listar/unico -> "/carro/unico" parametro id
-Editar -> "/carro/editar"
-Excluir -> "/carro/excluir"
+### Moto
+* Cadastrar -> "/carro/cadastrar"
+* Listar -> "/carro"
+* Listar/unico -> "/carro/unico" parametro id
+* Editar -> "/carro/editar"
+* Excluir -> "/carro/excluir"
 
-* Caminhao
-Cadastrar -> "/carro/cadastrar"
-Listar -> "/carro"
-Listar/unico -> "/carro/unico" parametro id
-Editar -> "/carro/editar"
-Excluir -> "/carro/excluir"
+### Caminhao
+* Cadastrar -> "/carro/cadastrar"
+* Listar -> "/carro"
+* Listar/unico -> "/carro/unico" parametro id
+* Editar -> "/carro/editar"
+* Excluir -> "/carro/excluir"
