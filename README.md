@@ -11,6 +11,8 @@ Nesse projeto, foi feito um crud simples, com três classes que conte
 
 # Como iniciar o projeto
 
+Importa o aquivo sql.sql.
+
 Tenha o composer instalado, rode no terminal -> composer update -> php -S localhost:9999 
 
 Para configurar o banco, tem um arquivo chamado banco na pasta (models).
