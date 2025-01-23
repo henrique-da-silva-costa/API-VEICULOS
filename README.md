@@ -2,7 +2,12 @@
 
 Esse projeto foi feito com o intuito de estudar programação orientada a objetos com PHP.
 
-Nesse projeto, foi feito um crud simples, com três classes que contem os mesmos métodos, estendendo de uma classe pai. 
+Nesse projeto, foi feito um crud simples, com três classes que contem os mesmos métodos, herdando de uma classe pai. 
+
+# Tecnologías usadas
+
+* PHP
+* Mysql
 
 # Como iniciar o projeto
 
@@ -17,23 +22,23 @@ Nesse arquivo tem essa função com a configurção
 
 ## Rotas
 
-* Carro
-Cadastrar -> "/carro/cadastrar"
-Listar -> "/carro"
-Listar/unico -> "/carro/unico" parametro id
-Editar -> "/carro/editar"
-Excluir -> "/carro/excluir"
+### Carro
+* Cadastrar(POST) -> "/carro/cadastrar"
+* Listar(GET) -> "/carro"
+* Listar/unico(GET) -> "/carro/unico" parametro id
+* Editar(POST) -> "/carro/editar"
+* Excluir(DELETE) -> "/carro/excluir"
   
-* Moto
-Cadastrar -> "/carro/cadastrar"
-Listar -> "/carro"
-Listar/unico -> "/carro/unico" parametro id
-Editar -> "/carro/editar"
-Excluir -> "/carro/excluir"
+### Moto
+* Cadastrar(POST) -> "/moto/cadastrar"
+* Listar(GET) -> "/moto"
+* Listar/unico(GET) -> "/moto/unico" parametro id
+* Editar(POST) -> "/moto/editar"
+* Excluir(DELETE) -> "/moto/excluir"
 
-* Caminhao
-Cadastrar -> "/carro/cadastrar"
-Listar -> "/carro"
-Listar/unico -> "/carro/unico" parametro id
-Editar -> "/carro/editar"
-Excluir -> "/carro/excluir"
+### Caminhão
+* Cadastrar(POST) -> "/caminhao/cadastrar"
+* Listar(GET) -> "/caminhao"
+* Listar/unico(GET) -> "/caminhao/unico" parametro id
+* Editar(POST) -> "/caminhao/editar"
+* Excluir(DELETE) -> "/caminhao/excluir"
