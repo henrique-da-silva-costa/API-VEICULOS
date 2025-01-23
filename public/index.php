@@ -16,7 +16,7 @@ try {
         print_r(json_encode(["erro" => TRUE, "msg" => "A rota não existe"]));
     }
 
-    $controller = $routes[$request][$uri];
+    $controller = isset($routes[$request][$uri]) ? $routes[$request][$uri] : function () {};
     $controller();
 } catch (\Throwable $th) {
     echo $th->getMessage();
