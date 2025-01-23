@@ -31,7 +31,7 @@ Nesse arquivo tem essa função com a configurção
 * Editar(POST) -> "/moto/editar"
 * Excluir(DELETE) -> "/moto/excluir"
 
-### Caminhao
+### Caminhão
 * Cadastrar(POST) -> "/caminhao/cadastrar"
 * Listar(GET) -> "/caminhao"
 * Listar/unico(GET) -> "/caminhao/unico" parametro id
