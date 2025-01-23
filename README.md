@@ -4,6 +4,11 @@ Esse projeto foi feito com o intuito de estudar programação orientad
 
 Nesse projeto, foi feito um crud simples, com três classes que contem os mesmos métodos, herdando de uma classe pai. 
 
+# Tecnologías usadas
+
+* PHP
+* Mysql
+
 # Como iniciar o projeto
 
 Tenha o composer instalado, rode no terminal -> composer update -> php -S localhost:9999 
