@@ -54,7 +54,6 @@ class Moto extends Veiculo
 
             return $carros;
         } catch (\Throwable $th) {
-            print_r($th->getMessage());
             return NULL;
         }
     }
